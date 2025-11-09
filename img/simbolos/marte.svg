@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg586"
+   sodipodi:docname="marte.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview913"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.38"
+     inkscape:cx="48.141264"
+     inkscape:cy="50.092937"
+     inkscape:window-width="1292"
+     inkscape:window-height="704"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg586" />
+  <defs
+     id="defs583" />
+  <g
+     id="layer1">
+    <path
+       d="m 10.037257,11.766722 c 1.28009,0 2.3738,0.4536 3.28101,1.36063 0.9071,0.90717 1.3607,2.00088 1.3607,3.28108 0,1.2803 -0.4536,2.36982 -1.3607,3.26841 -0.90721,0.8986 -2.00092,1.348 -3.28101,1.348 -1.2804103,0 -2.3739803,-0.4494 -3.2810803,-1.348 -0.90721,-0.89859 -1.36081,-1.98811 -1.36081,-3.26841 0,-1.2802 0.4536,-2.37391 1.36081,-3.28108 0.9071,-0.90703 2.00067,-1.36063 3.2810803,-1.36063 z m 3.75151,-0.0763 c -1.2209,-0.9495 -2.5901,-1.3777 -4.1076103,-1.28461 -1.51768,0.0933 -2.81061,0.67409 -3.87889,1.74241 -1.16992,1.16999 -1.7549,2.5859 -1.7549,4.24748 0,1.66169 0.58498,3.0776 1.7549,4.24762 1.16998,1.16999 2.58589,1.755 4.2475803,1.755 1.66162,0 3.0776,-0.58501 4.24752,-1.755 1.06828,-1.06832 1.64909,-2.36121 1.7424,-3.87893 0.0931,-1.51737 -0.335,-2.88668 -1.2845,-4.1075 l 5.01058,-5.0360803 -0.94107,2.8486803 1.29709,0.4324 2.2891,-6.8418803 -6.89271,2.2128 0.407,1.2972 2.92492,-0.9411 z"
+       style="display:inline;fill:#f5b006;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path862" />
+  </g>
+</svg>

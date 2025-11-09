@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg586"
+   sodipodi:docname="sagitario.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview481"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.38"
+     inkscape:cx="48.141264"
+     inkscape:cy="50.092937"
+     inkscape:window-width="1292"
+     inkscape:window-height="704"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg586" />
+  <defs
+     id="defs583" />
+  <g
+     id="layer1">
+    <path
+       d="m 21.205067,5.2650667 c -0.93701,0.29658 -2.33849,0.74958 -4.20472,1.35869 -1.86609,0.609 -3.26757,1.06179 -4.20437,1.35841 l 0.42149,1.35858 4.26318,-1.35858 -9.0650803,9.0416903 -1.96762,-1.96751 -1.00718,1.00721 1.99108,1.96759 -2.17858,2.1549 1.00739,1.00722 2.15491,-2.15491 1.9910803,1.96758 0.98372,-1.00728 -1.9676203,-1.96751 9.0416203,-9.0182003 -1.382,4.1929003 1.35858,0.42161 z"
+       style="display:inline;fill:#f5b006;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path2158" />
+  </g>
+</svg>
